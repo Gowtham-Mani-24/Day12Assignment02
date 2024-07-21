@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(77, 82, 82);
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-blue{
+    background-color: rgb(65, 178, 243);
+}
+
+.bg-red{
+    background-color: rgb(214, 66, 66);
+}
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-red{
+    color: rgb(184, 61, 61);
+}
+/* h1{
+    color: rgb(164, 61, 61);
+}
+h5{
+    color: whitesmoke;
+} */
